@@ -29,7 +29,7 @@ L'entropia iniziale fornisce una misura del disordine dei dati: più è alta, ma
 
 $p_{pos} = \{ \frac{n_{Si}}{n_{Sole}} \} = \frac{1}{4}$
 
-$p_{neg} = \{ \frac{n{No}}{n_{Sole}} \} = \frac{3}{4}$
+$p_{neg} = \{ \frac{n_{No}}{n_{Sole}} \} = \frac{3}{4}$
 
 $H_{Sole} = 0.81$
 
@@ -45,7 +45,7 @@ $H_{Nuvoloso} = 0$
 
 $p_{pos} = \{ \frac{n_{Si}}{n_{Pioggia}} \} = \frac{3}{4}$
 
-$p_{neg} = \{ \frac{\# No}{\# Pioggia} \} = \frac{1}{4}$
+$p_{neg} = \{ \frac{n_{No}}{n_{Pioggia}} \} = \frac{1}{4}$
 
 $H_{Pioggia} = 0.81$
 
