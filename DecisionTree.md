@@ -27,23 +27,23 @@ L'entropia iniziale fornisce una misura del disordine dei dati: più è alta, ma
 
 ##### Sole
 
-$p_{pos} = \{ \frac{\# Si}{\# Sole} \} = \frac{1}{4}$
+$p_{pos} = \{ \frac{n_{Si}}{n_{Sole}} \} = \frac{1}{4}$
 
-$p_{neg} = \{ \frac{\# No}{\# Sole} \} = \frac{3}{4}$
+$p_{neg} = \{ \frac{n{No}}{n_{Sole}} \} = \frac{3}{4}$
 
 $H_{Sole} = 0.81$
 
 ##### Nuvoloso
 
-$p_{pos} = \{ \frac{\# Si}{\# Nuvoloso} \} = \frac{2}{2}$
+$p_{pos} = \{ \frac{n_{Si}}{n_{Nuvoloso}} \} = \frac{2}{2}$
 
-$p_{neg} = \{ \frac{\# No}{\# Nuvoloso} \} = \frac{0}{0}$ ???
+$p_{neg} = \{ \frac{n_{No}}{n_{Nuvoloso}} \} = \frac{0}{0}$ ???
 
 $H_{Nuvoloso} = 0$
 
 ##### Pioggia
 
-$p_{pos} = \{ \frac{\# Si}{\# Pioggia} \} = \frac{3}{4}$
+$p_{pos} = \{ \frac{n_{Si}}{n_{Pioggia}} \} = \frac{3}{4}$
 
 $p_{neg} = \{ \frac{\# No}{\# Pioggia} \} = \frac{1}{4}$
 
